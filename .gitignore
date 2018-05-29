@@ -8,4 +8,4 @@
 *.dll 
 *.exe 
 
-CMakeTmp
+CMakeFiles
