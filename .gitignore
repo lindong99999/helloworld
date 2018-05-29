@@ -1,1 +1,11 @@
-/Debug/
+# Compiled Object files 
+*.o 
+*.obj 
+
+ 
+# Compiled Dynamic libraries 
+*.so 
+*.dll 
+*.exe 
+
+CMakeTmp
