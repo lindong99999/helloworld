@@ -6,10 +6,11 @@
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
-#include <iostream>
-using namespace std;
+
+#include "sayhello.h"
+
 
 int main() {
-	cout << "!!!Hello World!!!" << endl;
+	sayhello();
 	return 0;
 }
